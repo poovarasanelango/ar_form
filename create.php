@@ -9,6 +9,10 @@ $uname = $_POST['userName'];
 $email = $_POST['email'];
 $upassword = $_POST['newPassword'];
 
+//$emal = $_POST['emal'];
+
+
+
 // if (extension_loaded('pdo')) {
 //   echo 'PDO is installed';
 // } else {
